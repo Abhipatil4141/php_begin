@@ -1,0 +1,42 @@
+Date : 2024-01-07 11:53:19
+Directory : c:\xampp\htdocs\Abhi
+Total : 18 files,  587 codes, 92 comments, 235 blanks, all 914 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| PHP      |         18 |        587 |         92 |        235 |        914 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------+------------+------------+------------+------------+------------+
+| path                                         | files      | code       | comment    | blank      | total      |
++----------------------------------------------+------------+------------+------------+------------+------------+
+| .                                            |         18 |        587 |         92 |        235 |        914 |
++----------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                     | language | code       | comment    | blank      | total      |
++----------------------------------------------+----------+------------+------------+------------+------------+
+| c:\xampp\htdocs\Abhi\25_databasecreating.php | PHP      |         21 |          6 |         15 |         42 |
+| c:\xampp\htdocs\Abhi\26_DbTable.php          | PHP      |         22 |          4 |         18 |         44 |
+| c:\xampp\htdocs\Abhi\27_insertData.php       | PHP      |         25 |          5 |         14 |         44 |
+| c:\xampp\htdocs\Abhi\28_Form.php             | PHP      |         98 |          4 |         33 |        135 |
+| c:\xampp\htdocs\Abhi\29_Selecting.php        | PHP      |         24 |         22 |         28 |         74 |
+| c:\xampp\htdocs\Abhi\30_where_clause.php     | PHP      |         37 |          7 |         26 |         70 |
+| c:\xampp\htdocs\Abhi\31_DeleteData.php       | PHP      |         24 |          4 |         14 |         42 |
+| c:\xampp\htdocs\Abhi\MySQL.php               | PHP      |         13 |          6 |          9 |         28 |
+| c:\xampp\htdocs\Abhi\Rulefor_variables.php   | PHP      |         23 |          0 |          1 |         24 |
+| c:\xampp\htdocs\Abhi\abhi.php                | PHP      |         15 |          0 |          2 |         17 |
+| c:\xampp\htdocs\Abhi\datatypes.php           | PHP      |          4 |         10 |          3 |         17 |
+| c:\xampp\htdocs\Abhi\form.php                | PHP      |        102 |          4 |         29 |        135 |
+| c:\xampp\htdocs\Abhi\get_post.php            | PHP      |         79 |          0 |          8 |         87 |
+| c:\xampp\htdocs\Abhi\index.php               | PHP      |         15 |          0 |          7 |         22 |
+| c:\xampp\htdocs\Abhi\indexboost.php          | PHP      |         38 |          1 |          1 |         40 |
+| c:\xampp\htdocs\Abhi\loop.php                | PHP      |          8 |          0 |          1 |          9 |
+| c:\xampp\htdocs\Abhi\stringFuction.php       | PHP      |         22 |         14 |         19 |         55 |
+| c:\xampp\htdocs\Abhi\vdo5_variable.php       | PHP      |         17 |          5 |          7 |         29 |
+| Total                                        |          |        587 |         92 |        235 |        914 |
++----------------------------------------------+----------+------------+------------+------------+------------+
